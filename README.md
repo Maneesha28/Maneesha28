@@ -1,13 +1,15 @@
-<h1>Hello 👋, I'm Maneesha</h1>
-<h4>An Undergraduate Student of Computer Science & Engineering from Bangladesh University of Engineering & Technology</h4>
+# Hi There! 👋
+I'm Maneesha. I'm a final year undergraduate student of Dept. of CSE, BUET.
+- 🌱 I'm currently taking preparations for job interviews.
+- 📧 Feel free to reach out to me via [***mail***](mailto:mswarna28@gmail.com) or [***linkedin***](https://www.linkedin.com/in/maneesha-rani-saha-b0576a19b/)
 
 <div>
 
-## 🛠️ ***My Tech***
+## 🛠️ My Tech
 
 <h3>Languages</h3>
   
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 <h3>Frameworks & Libraries </h3>
   
@@ -25,7 +27,7 @@
   
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-## 📈 ***GitHub Stats***
+## 📈 GitHub Stats
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maneesha28&theme=dracula)
 </br></br>
