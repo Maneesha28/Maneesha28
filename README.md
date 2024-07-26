@@ -1,5 +1,5 @@
 # Hi There! 👋
-I'm Maneesha. I'm a final year undergraduate student of Dept. of CSE, BUET.
+I'm Maneesha. I'm a recent graduate student of Dept. of CSE, BUET.
 - 🌱 I'm currently taking preparations for job interviews.
 - 📧 Feel free to reach out to me via [***mail***](mailto:mswarna28@gmail.com) or [***linkedin***](https://www.linkedin.com/in/maneesha-rani-saha-b0576a19b/)
 
