@@ -1,7 +1,7 @@
 # Hi, I'm Maneesha! 👋
 - 🎓 Fresh graduate @ [Dept. of CSE, BUET](https://cse.buet.ac.bd/).
-- 🌱 Currently looking for jobs in **Software Engineer** roles.
-- 🔎 My research interest areas include **Systems, Security, Networking, Software Engineering** and **HCI**.
+- 🌱 Currently working as an **Adjunct Lecturer** at the CSE departments of ULAB and BRAC University.
+- 🔎 My research interest areas include **Human Centered Security, ML System Security, Trustworthy AI** and **Edge Computing**.
 - 📧 Feel free to reach out to me via [***mail***](mailto:mswarna28@gmail.com) or [***linkedin***](https://www.linkedin.com/in/maneesha-rani-saha-b0576a19b/).
 - 💻 Visit my [website](https://maneesha28.github.io/) to know more about me.
 
