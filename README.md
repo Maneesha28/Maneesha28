@@ -1,5 +1,5 @@
 # Hi, I'm Maneesha! 👋
-- 💼 PhD research fellow at [Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/).
+- 📑 PhD research fellow at [Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/).
 - 🎓 Graduated from [Dept. of CSE, BUET](https://cse.buet.ac.bd/).
 - 💼 Worked as an **Adjunct Lecturer** at the CSE departments of ULAB and BRAC University.
 - 🔎 My research interest areas include **ML System and Security, Trustworthy AI, Edge Computing** and **Human Centered Computing**.
